@@ -1,0 +1,45 @@
+fieldset {
+    padding: 15px;
+    margin: 0 2px;
+    border: 1px solid #534f4f;
+    border-radius: 20px;
+}
+legend {
+    display: block;
+    width: auto;
+    padding: 3px 9px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    line-height: inherit;
+    color: #FFF;
+    background: #008cfe;
+}
+.panel-default{       
+    border-radius: 10px; 
+    border: none !important;
+}
+
+.panel-heading {
+    font-size: 18px;
+    padding: 15px;
+    border-bottom: 2px solid transparent;    
+    background-color: rgba(110,106,106,0.9) !important;
+    color: #FFF !important;
+    border-color: #534f4f !important;
+    border-top-left-radius: 8px; 
+    border-top-right-radius: 8px;
+}
+.panel-body{
+    font-size: 15px;
+    background-color: rgba(110,106,106,0.9); 
+    color: #FFF !important;
+    border-bottom-left-radius:8px; 
+    border-bottom-right-radius: 8px;
+}
+.addBtn{
+    padding: 2px 16px !important;
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+    border-radius: 50px !important;
+}
